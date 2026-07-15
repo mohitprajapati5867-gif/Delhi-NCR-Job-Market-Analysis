@@ -4,7 +4,6 @@
 
 [![Excel](https://img.shields.io/badge/Excel-Advanced-green)](https://github.com/mohitprajapati5867-gif)
 [![SQL](https://img.shields.io/badge/SQL-SSMS-blue)](https://github.com/mohitprajapati5867-gif)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/mohitprajapati5867-gif)
 
 ---
 
@@ -42,7 +41,6 @@ This project analyzes **300 Data Analyst job postings** from Delhi NCR (Naukri.c
 |---|---|
 | **Excel** | Data cleaning, COUNTIFS, AVERAGEIFS, MINIFS, MAXIFS, Pivot tables |
 | **SQL (SSMS)** | 20 queries — skills analysis, salary analysis, fresher jobs, cross-tabs |
-| **Power BI** | 4-page interactive dashboard with DAX measures |
 
 ---
 
