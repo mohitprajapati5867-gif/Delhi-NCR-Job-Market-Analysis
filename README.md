@@ -5,7 +5,6 @@
 [![Excel](https://img.shields.io/badge/Excel-Advanced-green)](https://github.com/mohitprajapati5867-gif)
 [![SQL](https://img.shields.io/badge/SQL-SSMS-blue)](https://github.com/mohitprajapati5867-gif)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/mohitprajapati5867-gif)
-[![Python](https://img.shields.io/badge/Python-pandas-orange)](https://github.com/mohitprajapati5867-gif)
 
 ---
 
